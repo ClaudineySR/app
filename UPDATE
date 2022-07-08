@@ -9,20 +9,8 @@
   "CheckUser": "false",
   "Udp": [
     {
-      "Porta": "7300"
+      "Porta": "8888"
     },
-    {
-      "Porta": "7400"
-    },
-    {
-      "Porta": "7500"
-    },
-    {
-      "Porta": "7600"
-    },
-    {
-      "Porta": "7700"
-    }
   ],
   "Servers": [
     {
