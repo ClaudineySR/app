@@ -9,7 +9,7 @@
   "CheckUser": "false",
   "Udp": [
     {
-      "Porta": "7300"
+      "Porta": "7700"
     }
   ],
   "Servers": [
