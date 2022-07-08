@@ -40,7 +40,7 @@
       "Name": "SERVIDOR RESERVA | EXTERNO",
       "TYPE": "free",
       "FLAG": "us.png",
-      "ServerIP": "SERVIDORJARVIS.XYZ",
+      "ServerIP": "sg.serverkit.me",
       "CheckUser": "http://SERVIDORJARVIS.XYZ:5454/checkUser",
       "ServerPort": "22",
       "SSLPort": "443",
