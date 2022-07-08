@@ -1,11 +1,11 @@
 {
-  "Version": "1.0.1",
+  "Version": "1.0.2",
   "ReleaseNotes": "NOVAS ATUALIZAÇÕES DISPONÍVEIS",
   "UrlUpdate": "https://raw.githubusercontent.com/ClaudineySR/app/main/UPDATE",
   "Sms": "https://raw.githubusercontent.com/ClaudineySR/app/main/MENSAGEM",
   "EmailFeedback": "ferabyte@outlook.com",
   "UrlContato": "https://t.me/claudineysr",
-  "UrlTermos": "https://raw.githubusercontent.com/ClaudineySR/app/main/TERMOS",
+  "UrlTermos": "https://fast.com/pt/",
   "CheckUser": "false",
   "Udp": [
     {
