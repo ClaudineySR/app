@@ -1,8 +1,8 @@
 {
   "Version": "1.0.1",
   "ReleaseNotes": "NOVA ATUALIZAÇÃO DISPONÍVEL",
-  "UrlUpdate": "https://raw.githubusercontent.com/ClaudineySR/app/main/UrlUpdate",
-  "Sms": "https://raw.githubusercontent.com/ClaudineySR/app/b8dc7ea8a21ec3c621c11d3c3b96a07b57171dca/UrlSms",
+  "UrlUpdate": "https://raw.githubusercontent.com/ClaudineySR/app/main/UPDATE",
+  "Sms": "https://raw.githubusercontent.com/ClaudineySR/app/main/MENSAGEM",
   "EmailFeedback": "ferabyte@outlook.com",
   "UrlContato": "https://t.me/claudineysr",
   "UrlTermos": "https://raw.githubusercontent.com/ClaudineySR/app/b8dc7ea8a21ec3c621c11d3c3b96a07b57171dca/termos.html",
