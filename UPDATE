@@ -1,6 +1,6 @@
 {
   "Version": "1.0.1",
-  "ReleaseNotes": "",
+  "ReleaseNotes": "Novas atualizações disponíveis",
   "UrlUpdate": "https://raw.githubusercontent.com/ClaudineySR/app/main/UPDATE",
   "Sms": "https://raw.githubusercontent.com/ClaudineySR/app/main/MENSAGEM",
   "EmailFeedback": "ferabyte@outlook.com",
@@ -9,8 +9,20 @@
   "CheckUser": "false",
   "Udp": [
     {
-      "Porta": "8888"
+      "Porta": "7300"
     },
+    {
+      "Porta": "7400"
+    },
+    {
+      "Porta": "7500"
+    },
+    {
+      "Porta": "7600"
+    },
+    {
+      "Porta": "7700"
+    }
   ],
   "Servers": [
     {
