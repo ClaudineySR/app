@@ -25,14 +25,14 @@
       "PASS": ""
     },
     {
-      "Name": "SERVIDOR RESERVA | EXTERNO",
+      "Name": "SERVIDOR GAMINGSSH- | EXTERNO",
       "TYPE": "free",
       "FLAG": "us.png",
       "ServerIP": "us.gameserver.pw",
       "CheckUser": "",
       "ServerPort": "22",
       "SSLPort": "443",
-      "USER": "gamingssh-",
+      "USER": "",
       "PASS": ""
     }
   ],
@@ -40,9 +40,9 @@
     {
       "Name": "CLARO [01]",
       "FLAG": "claro",
-      "Payload": "GET wss://icanhazip.com/ HTTP/1.1[crlf]Host: [app_host][crlf]Upgrade: websocket[crlf][crlf]",
-      "SNI": "icanhazip.com",
-      "TlsIP": "icanhazip.com",
+      "Payload": "GET wss://lp.livestream.com/ HTTP/1.1[crlf]Host: [app_host][crlf]Upgrade: websocket[crlf][crlf]",
+      "SNI": "lp.livestream.com",
+      "TlsIP": "lp.livestream.com",
       "ProxyIP": "",
       "ProxyPort": "443",
       "Info": "Tlsws"
