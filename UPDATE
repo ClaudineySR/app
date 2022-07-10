@@ -28,11 +28,11 @@
       "Name": "SERVIDOR RESERVA | EXTERNO",
       "TYPE": "free",
       "FLAG": "us.png",
-      "ServerIP": "sg.serverkit.me",
+      "ServerIP": "us.gameserver.pw",
       "CheckUser": "",
       "ServerPort": "22",
       "SSLPort": "443",
-      "USER": "",
+      "USER": "gamingssh-",
       "PASS": ""
     }
   ],
