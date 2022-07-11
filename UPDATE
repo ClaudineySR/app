@@ -24,8 +24,19 @@
       "USER": "",
       "PASS": ""
     },
+        {
+      "Name": "SERVIDOR| LIONSSH-",
+      "TYPE": "free",
+      "FLAG": "us.png",
+      "ServerIP": "sg.serverkit.me",
+      "CheckUser": "",
+      "ServerPort": "22",
+      "SSLPort": "443",
+      "USER": "",
+      "PASS": ""
+    },
     {
-      "Name": "SERVIDOR US | GAMINGSSH-",
+      "Name": "SERVIDOR| GAMINGSSH-",
       "TYPE": "free",
       "FLAG": "us.png",
       "ServerIP": "us.gameserver.pw",
