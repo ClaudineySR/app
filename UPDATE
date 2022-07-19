@@ -34,26 +34,15 @@
       "SSLPort": "443",
       "USER": "",
       "PASS": ""
-    },
-    {
-      "Name": "SERVIDOR| GAMINGSSH-",
-      "TYPE": "free",
-      "FLAG": "us.png",
-      "ServerIP": "us.gameserver.pw",
-      "CheckUser": "",
-      "ServerPort": "22",
-      "SSLPort": "443",
-      "USER": "",
-      "PASS": ""
     }
   ],
   "Networks": [
     {
       "Name": "CLARO [01]",
       "FLAG": "claro",
-      "Payload": "GET wss://lp.livestream.com/ HTTP/1.1[crlf]Host: [app_host][crlf]Upgrade: websocket[crlf][crlf]",
-      "SNI": "lp.livestream.com",
-      "TlsIP": "lp.livestream.com",
+      "Payload": "GET wss://br.corp.kaltura.com/ HTTP/1.1[crlf]Host: [app_host][crlf]Upgrade: websocket[crlf][crlf]",
+      "SNI": "br.corp.kaltura.com",
+      "TlsIP": "br.corp.kaltura.com",
       "ProxyIP": "",
       "ProxyPort": "443",
       "Info": "Tlsws"
