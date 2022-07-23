@@ -1,5 +1,5 @@
 {
-  "Version": "1.0.5",
+  "Version": "1.0.6",
   "ReleaseNotes": "Novas atualizações disponíveis",
   "UrlUpdate": "https://raw.githubusercontent.com/ClaudineySR/app/main/UPDATE",
   "Sms": "https://raw.githubusercontent.com/ClaudineySR/app/main/MENSAGEM",
@@ -38,23 +38,23 @@
   ],
   "Networks": [
     {
-      "Name": "CLARO 1 [claromusica.mx]",
+      "Name": "CLARO akross2",
       "FLAG": "claro",
-      "Payload": "GET wss://claromusica.mx HTTP/1.1[crlf]Host: [app_host][crlf]Upgrade: websocket[crlf][crlf]",
-      "SNI": "claromusica.mx",
-      "TlsIP": "claromusica.mx",
-      "ProxyIP": "claromusica.mx",
-      "ProxyPort": "443",
+      "Payload": "GET ws://content.akross.com.br HTTP/1.1[crlf]Host: d2b9eo4jcaifuj.cloudfront.net[crlf]Upgrade: websocket[crlf]Connection: Upgrade[crlf][crlf]",
+      "SNI": "content.akross.com.br",
+      "TlsIP": "content.akross.com.br",
+      "ProxyIP": "",
+      "ProxyPort": "",
       "Info": "Tlsws"
     },
     {
-      "Name": "CLARO 2 [ipv4.icanhazip]",
+      "Name": "╰┈[☞> 𝗖𝗟𝗔𝗥𝗢 claromusica",
       "FLAG": "claro",
-      "Payload": "GET wss://ipv4.icanhazip.com HTTP/1.1[crlf]Host: [app_host][crlf]Upgrade: websocket[crlf][crlf]",
-      "SNI": "ipv4.icanhazip.com",
-      "TlsIP": "ipv4.icanhazip.com",
-      "ProxyIP": "ipv4.icanhazip.com",
-      "ProxyPort": "443",
+      "Payload": "GET wss://claromusica.mx/ HTTP/1.1[crlf]Host: [app_host][crlf]Upgrade: websocket[crlf][crlf]",
+      "SNI": "claromusica.mx",
+      "TlsIP": "claromusica.mx",
+      "ProxyIP": "",
+      "ProxyPort": "",
       "Info": "Tlsws"
     },
     {
