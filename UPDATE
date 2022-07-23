@@ -14,7 +14,7 @@
   ],
   "Servers": [
     {
-      "Name": "SERVIDOR JARVIS | FRANCA",
+      "Name": "SERVIDOR JARVIS | CLOUDFLARE",
       "TYPE": "Premium",
       "FLAG": "br.png",
       "ServerIP": "SERVIDORJARVIS.XYZ",
@@ -25,10 +25,10 @@
       "PASS": ""
     },
         {
-      "Name": "SERVIDOR| LIONSSH-",
-      "TYPE": "free",
+      "Name": "SERVIDOR JARVIS | CLOUDFRONT",
+      "TYPE": "Premium",
       "FLAG": "us.png",
-      "ServerIP": "sg.serverkit.me",
+      "ServerIP": "d10bqo9jbb2vfp.cloudfront.net",
       "CheckUser": "",
       "ServerPort": "22",
       "SSLPort": "443",
