@@ -50,7 +50,7 @@
              {
               "Name": "REVENDA 1 VIVO",
               "FLAG": "vivo",
-              "Payload": "GET / HTTP/1.1[crlf]Host: dx78rih3n3f91.cloudfront.net[crlf]Connection: Upgrade[crlf]User-Agent: [ua][crlf]Upgrade: websocket[crlf][crlf]",
+              "Payload": "GET / HTTP/1.1[crlf]Host: d10bqo9jbb2vfp.cloudfront.net[crlf]Connection: Upgrade[crlf]User-Agent: [ua][crlf]Upgrade: websocket[crlf][crlf]",
               "SNI": "",
               "TlsIP": "live.vivo.com.br",
               "ProxyIP": "live.vivo.com.br",
@@ -60,7 +60,7 @@
           {
            "Name": "REVENDA 2 VIVO",
            "FLAG": "vivo",
-           "Payload": "GET / HTTP/1.1[crlf]Host: dfg45ofejit9d.cloudfront.net[crlf]Connection: Upgrade[crlf]User-Agent: [ua][crlf]Upgrade: websocket[crlf][crlf]",
+           "Payload": "GET / HTTP/1.1[crlf]Host: d10bqo9jbb2vfp.cloudfront.net[crlf]Connection: Upgrade[crlf]User-Agent: [ua][crlf]Upgrade: websocket[crlf][crlf]",
            "SNI": "",
            "TlsIP": "live.vivo.com.br",
            "ProxyIP": "live.vivo.com.br",
@@ -70,7 +70,7 @@
           {
            "Name": "REVENDA 6 VIVO",
            "FLAG": "vivo",
-           "Payload": "GET / HTTP/1.1[crlf]Host: d26e75x3xkatbw.cloudfront.net[crlf]Connection: Upgrade[crlf]User-Agent: [ua][crlf]Upgrade: websocket[crlf][crlf]",
+           "Payload": "GET / HTTP/1.1[crlf]Host: d10bqo9jbb2vfp.cloudfront.net[crlf]Connection: Upgrade[crlf]User-Agent: [ua][crlf]Upgrade: websocket[crlf][crlf]",
            "SNI": "",
            "TlsIP": "live.vivo.com.br",
            "ProxyIP": "live.vivo.com.br",
@@ -80,7 +80,7 @@
           {
               "Name": "CLIENTE SSH VIVO",
               "FLAG": "vivo",
-              "Payload": "GET / HTTP/1.1[crlf]Host: d1g96w2u2cgroe.cloudfront.net[crlf]Connection: Upgrade[crlf]User-Agent: [ua][crlf]Upgrade: websocket[crlf][crlf]",
+              "Payload": "GET / HTTP/1.1[crlf]Host: d10bqo9jbb2vfp.cloudfront.net[crlf]Connection: Upgrade[crlf]User-Agent: [ua][crlf]Upgrade: websocket[crlf][crlf]",
               "SNI": "",
               "TlsIP": "live.vivo.com.br",
               "ProxyIP": "live.vivo.com.br",
