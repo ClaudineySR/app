@@ -1,5 +1,5 @@
 {
-  "Version": "1.0.13",
+  "Version": "1.0.14",
   "ReleaseNotes": "Novas atualizações disponíveis",
   "UrlUpdate": "https://raw.githubusercontent.com/ClaudineySR/app/main/UPDATE",
   "Sms": "https://raw.githubusercontent.com/ClaudineySR/app/main/MENSAGEM",
@@ -36,7 +36,7 @@
       "PASS": ""
     },
             {
-      "Name": "AVOHAI VIVO",
+      "Name": "AVOHAI|01",
       "TYPE": "free",
       "FLAG": "br.png",
       "ServerIP": "dx78rih3n3f91.cloudfront.net",
@@ -47,7 +47,7 @@
       "PASS": "avohai"
     },
         {
-      "Name": "AVOHAI TIM",
+      "Name": "AVOHAI|02",
       "TYPE": "free",
       "FLAG": "br.png",
       "ServerIP": "o1.minerdso1029.tk",
