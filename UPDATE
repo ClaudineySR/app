@@ -14,7 +14,7 @@
   ],
   "Servers": [
     {
-      "Name": "SERVIDOR JARVIS | CLOUDFLARE",
+      "Name": "JARVIS|CLOUDFLARE",
       "TYPE": "Premium",
       "FLAG": "br.png",
       "ServerIP": "SERVIDORJARVIS.XYZ",
@@ -25,7 +25,7 @@
       "PASS": ""
     },
         {
-      "Name": "SERVIDOR JARVIS | CLOUDFRONT",
+      "Name": "JARVIS|CLOUDFRONT",
       "TYPE": "Premium",
       "FLAG": "us.png",
       "ServerIP": "d10bqo9jbb2vfp.cloudfront.net",
@@ -34,7 +34,18 @@
       "SSLPort": "443",
       "USER": "",
       "PASS": ""
-    }
+    },
+        {
+      "Name": "SERVIDOR AVOHAI",
+      "TYPE": "Premium",
+      "FLAG": "br.png",
+      "ServerIP": "r0.minerdso1029.tk",
+      "CheckUser": "",
+      "ServerPort": "22",
+      "SSLPort": "443",
+      "USER": "avohai",
+      "PASS": "avohai"
+    },
   ],
   "Networks": [
         {
