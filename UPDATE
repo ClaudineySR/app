@@ -1,5 +1,5 @@
 {
-  "Version": "1.0.14",
+  "Version": "1.0.15",
   "ReleaseNotes": "Novas atualizações disponíveis",
   "UrlUpdate": "https://raw.githubusercontent.com/ClaudineySR/app/main/UPDATE",
   "Sms": "https://raw.githubusercontent.com/ClaudineySR/app/main/MENSAGEM",
@@ -25,10 +25,10 @@
       "PASS": ""
     },
         {
-      "Name": "JARVIS|CLOUDFRONT",
+      "Name": "JARVIS|LIONSSH",
       "TYPE": "Premium",
       "FLAG": "br.png",
-      "ServerIP": "d10bqo9jbb2vfp.cloudfront.net",
+      "ServerIP": "a-sg.goserver.pw",
       "CheckUser": "",
       "ServerPort": "22",
       "SSLPort": "443",
