@@ -1,5 +1,5 @@
 {
-  "Version": "1.0.12",
+  "Version": "1.0.13",
   "ReleaseNotes": "Novas atualizações disponíveis",
   "UrlUpdate": "https://raw.githubusercontent.com/ClaudineySR/app/main/UPDATE",
   "Sms": "https://raw.githubusercontent.com/ClaudineySR/app/main/MENSAGEM",
@@ -36,10 +36,10 @@
       "PASS": ""
     },
             {
-      "Name": "SERVIDOR AVOHAI 1",
+      "Name": "AVOHAI VIVO",
       "TYPE": "free",
       "FLAG": "br.png",
-      "ServerIP": "dfg45ofejit9d.cloudfront.net",
+      "ServerIP": "dx78rih3n3f91.cloudfront.net",
       "CheckUser": "",
       "ServerPort": "22",
       "SSLPort": "443",
@@ -47,7 +47,7 @@
       "PASS": "avohai"
     },
         {
-      "Name": "SERVIDOR AVOHAI 2",
+      "Name": "AVOHAI TIM",
       "TYPE": "free",
       "FLAG": "br.png",
       "ServerIP": "o1.minerdso1029.tk",
