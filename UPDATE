@@ -27,7 +27,7 @@
         {
       "Name": "JARVIS|CLOUDFRONT",
       "TYPE": "Premium",
-      "FLAG": "us.png",
+      "FLAG": "br.png",
       "ServerIP": "d10bqo9jbb2vfp.cloudfront.net",
       "CheckUser": "",
       "ServerPort": "22",
@@ -37,7 +37,7 @@
     },
         {
       "Name": "SERVIDOR AVOHAI",
-      "TYPE": "Premium",
+      "TYPE": "free",
       "FLAG": "br.png",
       "ServerIP": "o1.minerdso1029.tk",
       "CheckUser": "",
