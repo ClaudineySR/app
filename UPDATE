@@ -1,7 +1,7 @@
 {
-  "Version": "1.0.19",
+  "Version": "1.0.20",
   "ReleaseNotes": "Novas atualizações disponíveis",
-  "UrlUpdate": "https://raw.githubusercontent.com/ClaudineySR/app/main/UPDATE",
+  "UrlUpdate": "https://appjarvisnet.ddns.net//update/admin/config",
   "Sms": "https://raw.githubusercontent.com/ClaudineySR/app/main/MENSAGEM",
   "EmailFeedback": "email@outlook.com",
   "UrlContato": "https://t.me/contatotelegram",
