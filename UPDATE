@@ -1,5 +1,5 @@
 {
-  "Version": "1.0.21",
+  "Version": "1.0.22",
   "ReleaseNotes": "Novas atualizações disponíveis",
   "UrlUpdate": "https://raw.githubusercontent.com/ClaudineySR/app/main/UPDATE",
   "Sms": "https://raw.githubusercontent.com/ClaudineySR/app/main/MENSAGEM",
@@ -14,7 +14,7 @@
   ],
   "Servers": [
     {
-      "Name": "JARVIS",
+      "Name": "JARVIS FLARE",
       "TYPE": "Premium",
       "FLAG": "br.png",
       "ServerIP": "SERVIDORJARVIS.XYZ",
@@ -25,10 +25,10 @@
       "PASS": ""
     },
         {
-      "Name": "LIONSSH",
+      "Name": "JARVIS FRONT",
       "TYPE": "Premium",
       "FLAG": "br.png",
-      "ServerIP": "a-sg.goserver.pw",
+      "ServerIP": "durw6k74e4rd2.cloudfront.net",
       "CheckUser": "",
       "ServerPort": "22",
       "SSLPort": "443",
