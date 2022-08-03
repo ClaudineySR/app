@@ -158,6 +158,15 @@
                "ProxyIP": "live.vivo.com.br",
                "ProxyPort": "80",
                "Info": "Proxy"
+         {
+              "Name": "VIVO [02]",
+               "FLAG": "vivo",
+               "Payload": "GET / HTTP/1.1[crlf]Host: [app_host][crlf]Connection: Upgrade[crlf]User-Agent: [ua][crlf]Upgrade: websocket[crlf][crlf]",
+               "SNI": "",
+               "TlsIP": "planosvivointernet.com.br",
+               "ProxyIP": "planosvivointernet.com.br",
+               "ProxyPort": "80",
+               "Info": "Proxy"
            }
                 ]
                 }
