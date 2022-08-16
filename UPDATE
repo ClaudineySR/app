@@ -1,5 +1,5 @@
 {
-  "Version": "2.0.1",
+  "Version": "2.0.2",
   "ReleaseNotes": "Novas atualizações disponíveis",
   "UrlUpdate": "https://raw.githubusercontent.com/ClaudineySR/app/main/UPDATE",
   "Sms": "https://raw.githubusercontent.com/ClaudineySR/app/main/MENSAGEM",
@@ -25,7 +25,7 @@
       "PASS": ""
     },
         {
-      "Name": "JARVIS FRONT 2",
+      "Name": "JARVIS FRONT 1",
       "TYPE": "Premium",
       "FLAG": "br.png",
       "ServerIP": "durw6k74e4rd2.cloudfront.net",
@@ -36,7 +36,7 @@
       "PASS": ""
     },
      {
-      "Name": "JARVIS FRONT 1",
+      "Name": "JARVIS FRONT 2",
       "TYPE": "free",
       "FLAG": "br.png",
       "ServerIP": "d2iwct7vmw39er.cloudfront.net",
