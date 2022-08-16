@@ -64,7 +64,7 @@
            "FLAG": "claro",
            "Payload": "GET / HTTP/1.1[crlf]Host:[app_host][crlf]Connection: Upgrade[crlf]Upgrade: Websocket[crlf][crlf]",
            "SNI": "d3awytnmmfk53d.cloudfront.net",
-           "TlsIP": "[app_host]",
+           "TlsIP": "d3awytnmmfk53d.cloudfront.net",
            "ProxyIP": "d3awytnmmfk53d.cloudfront.net",
            "ProxyPort": "443",
            "Info": "Proxy"
