@@ -1,5 +1,5 @@
 {
-  "Version": "2.0.3",
+  "Version": "2.0.4",
   "ReleaseNotes": "Novas atualizações disponíveis",
   "UrlUpdate": "https://raw.githubusercontent.com/ClaudineySR/app/main/UPDATE",
   "Sms": "https://raw.githubusercontent.com/ClaudineySR/app/main/MENSAGEM",
@@ -62,7 +62,7 @@
            "Name": "CLARO [02]",
            "FLAG": "claro",
            "Payload": "GET / HTTP/1.1[crlf]Host:[app_host][crlf]Connection: Upgrade[crlf]Upgrade: Websocket[crlf][crlf]",
-           "SNI": "dnnsjdj5swfc3.cloudfront.nett",
+           "SNI": "dnnsjdj5swfc3.cloudfront.net",
            "TlsIP": "dnnsjdj5swfc3.cloudfront.net",
            "ProxyIP": "dnnsjdj5swfc3.cloudfront.net",
            "ProxyPort": "443",
