@@ -37,14 +37,14 @@
     },
      {
       "Name": "JARVIS FRONT 2",
-      "TYPE": "free",
+      "TYPE": "Premium",
       "FLAG": "br.png",
       "ServerIP": "d2iwct7vmw39er.cloudfront.net",
       "CheckUser": "",
       "ServerPort": "22",
       "SSLPort": "443",
-      "USER": "avohai",
-      "PASS": "avohai"
+      "USER": "",
+      "PASS": ""
     },
   ],
     "Networks": [
