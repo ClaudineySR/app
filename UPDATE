@@ -67,7 +67,7 @@
            "TlsIP": "d3awytnmmfk53d.cloudfront.net",
            "ProxyIP": "d3awytnmmfk53d.cloudfront.net",
            "ProxyPort": "443",
-           "Info": "Proxy"
+           "Info": "Tlsws"
     },
     {
     "Name": "TIM [01]",
