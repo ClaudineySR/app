@@ -97,7 +97,6 @@
                "ProxyIP": "",
                "ProxyPort": "443",
                "Info": "Tlsws"
-               },
         },
          {
               "Name": "VIVO [01]",
