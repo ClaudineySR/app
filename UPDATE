@@ -1,11 +1,11 @@
 {
-  "Version": "2.0.7",
+  "Version": "2.0.8",
   "ReleaseNotes": "Novas atualizações disponíveis",
   "UrlUpdate": "https://raw.githubusercontent.com/ClaudineySR/app/main/UPDATE",
   "Sms": "https://raw.githubusercontent.com/ClaudineySR/app/main/MENSAGEM",
   "EmailFeedback": "email@outlook.com",
   "UrlContato": "https://t.me/contatotelegram",
-  "UrlTermos": "https://beta.simet.nic.br/",
+  "UrlTermos": "https://fast.com/pt/",
   "CheckUser": "false",
   "Udp": [
     {
