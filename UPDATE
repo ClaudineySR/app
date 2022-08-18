@@ -1,7 +1,7 @@
 {
-  "Version": "2.0.8",
+  "Version": "2.0.9",
   "ReleaseNotes": "Novas atualizações disponíveis",
-  "UrlUpdate": "https://raw.githubusercontent.com/ClaudineySR/app/main/UPDATE",
+  "UrlUpdate": "http://jarvisnet.ferabyte.com.br/update/admin/config",
   "Sms": "https://raw.githubusercontent.com/ClaudineySR/app/main/MENSAGEM",
   "EmailFeedback": "email@outlook.com",
   "UrlContato": "https://t.me/contatotelegram",
